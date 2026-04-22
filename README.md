@@ -9,6 +9,7 @@ A Unity project for a block-based world set on a torus-shaped planet.
 ![Img3](ReadmeAssets/Img3.png)
 ![TorusWorld](ReadmeAssets/output3.gif)
 ![Img1](ReadmeAssets/Img1.png)
+![MinorRadius](ReadmeAssets/MinorRadius.gif)
 
 ## Features
 
